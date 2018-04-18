@@ -1301,10 +1301,6 @@ babel-plugin-transform-function-bind@^6.5.2:
     babel-plugin-syntax-function-bind "^6.8.0"
     babel-runtime "^6.22.0"
 
-babel-plugin-transform-inline-environment-variables@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/babel-plugin-transform-inline-environment-variables/-/babel-plugin-transform-inline-environment-variables-0.0.2.tgz#1372475c6c87f3c4ce6046587730ee041bc784b9"
-
 babel-plugin-transform-object-assign@^6.5.0:
   version "6.22.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-transform-object-assign/-/babel-plugin-transform-object-assign-6.22.0.tgz#f99d2f66f1a0b0d498e346c5359684740caa20ba"
@@ -6223,11 +6219,10 @@ react-native-typescript-transformer@1.2.4:
     semver "^5.4.1"
     source-map "^0.5.6"
 
-react-native-ui-lib@3.3.50:
-  version "3.3.50"
-  resolved "https://registry.yarnpkg.com/react-native-ui-lib/-/react-native-ui-lib-3.3.50.tgz#be89272f5eb4fc79d7cd707a2f3ba6ad0cb5fa8d"
+react-native-ui-lib@3.3.53:
+  version "3.3.53"
+  resolved "https://registry.yarnpkg.com/react-native-ui-lib/-/react-native-ui-lib-3.3.53.tgz#d9695b070cf22bb5c62b9eb905eccf2d2c510b7b"
   dependencies:
-    babel-plugin-transform-inline-environment-variables "^0.0.2"
     hoist-non-react-statics "^2.3.0"
     lodash "^4.0.0"
     prop-types "^15.5.10"
